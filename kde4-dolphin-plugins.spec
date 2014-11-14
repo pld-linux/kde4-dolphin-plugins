@@ -8,7 +8,7 @@
 
 Summary:	Dolphin VCS plugins
 Name:		kde4-dolphin-plugins
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications
@@ -18,7 +18,7 @@ Obsoletes:	kde-kio-git
 Obsoletes:	kde4-kdesdk-dolphin-plugins
 Conflicts:	kde-kio-svn < 4.9.3
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	a4f780d291c19bae656a960afa3008d0
+# Source0-md5:	b5c3537e2f1064a5c74a57461dd2c7a3
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
